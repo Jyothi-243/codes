@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// palindrome and reverse both are included
 /**
  * revString
  */
