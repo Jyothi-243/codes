@@ -29,5 +29,6 @@ public class numpalindrome14
 	    int num=sc.nextInt();
 		boolean b=isPalindrome(num);
 		System.out.println(b);
+        sc.close();
 	}
 }
