@@ -14,5 +14,6 @@ public class lastword16
 	    String strs=sc.nextLine();
 		int res=lengthOfLastWord(strs);
 		System.out.println(res);
+        sc.close();
 	}
 }
